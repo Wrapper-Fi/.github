@@ -1,4 +1,4 @@
-### Wrapper Fi
+# 🍬 Wrapper Fi
 
 /****
 
@@ -27,4 +27,6 @@
 
 Your one stop shop to wrap and unwrap tokens!
 
-Wrapped ETH, AVAX, OP, BNB, MATIC and more!
+A DeFi infrastructure project for wrapped ETH, AVAX, BNB, OP, MATIC and MORE!
+
+
